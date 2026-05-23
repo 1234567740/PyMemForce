@@ -1,0 +1,9 @@
+PyMemForce/
+├── pymemforce/
+│   └── __init__.py      # 完整库代码
+├── README.md            # 我给你的README
+├── LICENSE              # 我给你的Apache 2.0协议
+├── setup.py             # 安装配置
+├── pyproject.toml       # 构建配置
+├── test_pymemforce.py   # 测试脚本
+└── .gitignore           # Git忽略文件
